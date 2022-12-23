@@ -6,3 +6,4 @@ git branch -D
 Merge conflicts happen when there have been changes/commits made to both files
     and git cannot choose which to merge.
 
+added some text for Github branch exercise 
