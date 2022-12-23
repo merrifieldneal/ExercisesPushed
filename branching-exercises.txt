@@ -1,0 +1,8 @@
+git checkout -b
+fast-forward means it was a clean merge that chronologically synced (no changes to main)
+    recursive means there was conflict that had to be dealt with(changes to main)
+git checkout
+git branch -D 
+Merge conflicts happen when there have been changes/commits made to both files
+    and git cannot choose which to merge.
+
